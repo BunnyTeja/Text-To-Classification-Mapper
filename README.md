@@ -1,2 +1,2 @@
-## Text to Classsification Mapper -   Mapper
-     - Tool that display the code and description from the ACM and JEL tree based on the text we enter.
+## Text to Classification Mapper -   Mapper
+     A tool that displays the code and description from the ACM and JEL tree based on the text we enter.
